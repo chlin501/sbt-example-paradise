@@ -30,6 +30,7 @@ object MyBuild extends Build {
     "macros",
     file("macros"),
     settings = buildSettings ++ Seq(
+      scalacOptions := Seq("-deprecation"),
       libraryDependencies <+= (scalaVersion)("org.scala-lang" % "scala-reflect" % _),
       libraryDependencies ++= (
         if (scalaVersion.value.startsWith("2.10")) List("org.scalamacros" %% "quasiquotes" % paradiseVersion)
@@ -41,6 +42,6 @@ object MyBuild extends Build {
   lazy val core: Project = Project(
     "core",
     file("core"),
-    settings = buildSettings
+    settings = buildSettings ++ Seq(libraryDependencies += "org.slf4j" % "slf4j-api" % "1.7.12")
   ) dependsOn(macros)
 }
