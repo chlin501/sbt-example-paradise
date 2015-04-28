@@ -105,6 +105,6 @@ case class Logger(tagFilter: TagFilter,
   }
 }
 
-object ActiveLogger {
-  val logger = Logger(VoidTagFilter, DefaultExpander, DefaultUnderlyingExternalLogger)
-}
+@ג case class C() {}
+
+
