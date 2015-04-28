@@ -114,3 +114,16 @@ run
 clean
 compile
 ~ ;clean ;run
+clean
+compile
+~ ;clean ;run
+last core/compile:compile
+~ ;clean ;run
+last core/compile:compile
+~ ;clean ;run
+last core/compile:compile
+~ ;clean ;run
+last core/compile:compile
+~ ;clean ;run
+last core/compile:compile
+~ ;clean ;run

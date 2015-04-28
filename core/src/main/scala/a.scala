@@ -1,3 +1,4 @@
+package Test
 import scala.concurrent.Future
 
 object Test extends App {
@@ -36,9 +37,19 @@ object Util {
   def getObjectName(obj: Object) = obj.getClass.toString.split('$').last.split('.').last // obj.getClass.getSimpleName.dropRight(1)
 }; import Util._
 
-@ג object DefaultExpander extends Expander {
+case class A() {
+  def doA = { println("A"); 3 }
+}
+
+object DefaultExpander extends Expander {
+  def foo = { val a = 3 }
   def apply(msg: String, tags: Seq[logTag], messageType: MessageType) : String = {
     import Console._
+    foo
+    val a = new A
+    a.doA
+    val b = new B
+    b.doB
     val tagString = tags.map(tag => "[" + getObjectName(tag) + "]").mkString(" ")
     messageType match {
       case Normal => WHITE + tagString + RESET + " " + BLUE + BOLD + msg + RESET  
