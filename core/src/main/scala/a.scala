@@ -50,8 +50,8 @@ case class A() {
     foo
     val a = new A
     a.doA
-    //val b = new B
-    //b.doB
+    val b = new B
+    b.doB
     val tagString = tags.map(tag => "[" + getObjectName(tag) + "]").mkString(" ")
     messageType match {
       case Normal => WHITE + tagString + RESET + " " + BLUE + BOLD + msg + RESET  

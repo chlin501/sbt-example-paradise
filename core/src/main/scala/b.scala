@@ -2,7 +2,7 @@ import grapher.NN
 
 @NN case class TestCaseClass(foo: String)
 
-class B {
+@NN class B {
   def doB = { 3 }
 }
 
