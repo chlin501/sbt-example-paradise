@@ -63,13 +63,12 @@ object analyze {
       }     
     }
     
-    val typeCheckedAnnottees = try {
-      val a: Seq[c.Tree] = annottees.map(annottee => c.typecheck(annottee.tree, silent = false)) } catch {
-        case e : Throwable => e.printStackTrace
-      } // this doesn't throw, but it will cause the macro to crash upon its return!
-    println(Console.BLUE_B + "after typechecking")
+    println(Console.GREEN + "about to typecheck" + Console.RESET)
+    val typeCheckedAnnottees = annottees.map(annottee => c.typecheck(annottee.tree, silent = false)).toList // this doesn't throw, but it will cause the macro to crash upon its return!
+    println(Console.GREEN_B + "typechecking didn't crash!" + Console.RESET)
    
-    annottees.map(_.tree).toList match {
+    //annottees.map(_.tree).toList match {
+    typeCheckedAnnottees match {
       
       case x@q"$mods object $name extends { ..$earlydefns } with ..$parents { $self => ..$body }" :: Nil =>
         println(s"found object $name")
@@ -80,7 +79,7 @@ object analyze {
         
       case x@q"$mods class $name[..$tparams] $ctorMods(...$paramss) extends { ..$earlydefns } with ..$parents { $self => ..$body }" :: Nil => 
         println(s"found class $name")
-        //findMethods("class", name, body)
+        findMethods("class", name, body)
         returnIdentity
         
           

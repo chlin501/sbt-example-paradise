@@ -1,6 +1,6 @@
 import grapher.NN
 
-@NN case class TestPassword(name: String, username: String, password: String, pinCode: String)
+@NN case class TestCaseClass(foo: String)
 
 class B {
   def doB = { 3 }

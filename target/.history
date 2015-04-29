@@ -194,3 +194,7 @@ last core/compile:compileIncremental
 ~ ;clean ;run
 last core/compile:compileIncremental
 exit
+~ ;clean ;run
+last core/compile:compileIncremental
+~ ;clean ;run
+exit

@@ -41,7 +41,9 @@ case class A() {
   def doA = { println("A"); 3 }
 }
 
-object DefaultExpander extends Expander {
+@NN case class TestCaseClass2(foo: String)
+
+@NN object DefaultExpander extends Expander {
   def foo = { val a = 3 }
   def apply(msg: String, tags: Seq[logTag], messageType: MessageType) : String = {
     import Console._
@@ -57,6 +59,8 @@ object DefaultExpander extends Expander {
     }
   }
 }
+
+@NN object Foo 
 
 abstract class UnderlyingExternalLogger {
   def apply(finalMessage: String, messageType: MessageType) 
