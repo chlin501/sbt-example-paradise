@@ -200,3 +200,4 @@ last core/compile:compileIncremental
 exit
 ~ ;clean ;run
 exit
+~ ;clean ;run

@@ -52,6 +52,7 @@ object analyze {
                   tname + Console.RESET)
           
           expr.foreach { 
+            // TODO: need to further hone the quasiquote for capturing all cases of method application, *along* the object they are applied to.
             case q"$obj $f" => println(s"  which calls " + Console.BLUE + Console.BOLD + f + Console.RESET + 
                                         " on object " + obj + 
                                         " of type " + Console.CYAN_B + obj.tpe.typeSymbol + Console.RESET)
@@ -73,7 +74,7 @@ object analyze {
       case x@q"$mods object $name extends { ..$earlydefns } with ..$parents { $self => ..$body }" :: Nil =>
         println(s"found object $name")
         findMethods("object", name, body)
-        c.Expr[Any](Block(annottees.map(_.tree).toList, Literal(Constant(()))))
+        returnIdentity
         
       //case (classDecl: ClassDef) :: Nil => modifiedDeclaration(classDecl)        
         
