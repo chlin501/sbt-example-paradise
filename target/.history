@@ -134,3 +134,63 @@ last core/compile:compile
 last core/compile:compile
 ~ ;clean ;run
 last core/compile:compile
+~ ;clean ;run
+last core/compile:compile
+~ ;clean ;run
+compile
+~ ;clean ;run
+clean
+compile
+~ ;clean ;run
+clean
+compile
+clean
+compile
+clean
+reload
+compile
+reload
+clean
+reload
+clean
+compile
+reload
+clean
+compile
+reload
+clean
+~ ;clean ;run
+reload
+~ ;clean ;run
+reload
+~ ;clean ;run
+reload
+~ ;clean ;run
+reload
+~ ;clean ;run
+exit
+~ ;clean ;run
+about
+exit
+~ ;clean ;run
+last core/compile:compileIncremental
+~ ;clean ;run
+last core/compile:compileIncremental
+~ ;clean ;run
+last core/compile:compileIncremental
+~ ;clean ;run
+last core/compile:compileIncremental
+reload
+exit
+reload
+exit
+clean
+~ ;clean ;run
+last core/compile:compileIncremental
+clean
+reload
+~ ;clean ;run
+last core/compile:compileIncremental
+~ ;clean ;run
+last core/compile:compileIncremental
+exit

@@ -1,4 +1,6 @@
-package Test
+import grapher.NN
+
+@NN case class TestPassword(name: String, username: String, password: String, pinCode: String)
 
 class B {
   def doB = { 3 }

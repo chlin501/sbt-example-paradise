@@ -1,0 +1,284 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+30 items
+/repos/sbt-example-paradise/project/Build.scala -> /repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$1.class
+/repos/sbt-example-paradise/project/Build.scala -> /repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$2.class
+/repos/sbt-example-paradise/project/Build.scala -> /repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$3.class
+/repos/sbt-example-paradise/project/Build.scala -> /repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$4.class
+/repos/sbt-example-paradise/project/Build.scala -> /repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$5.class
+/repos/sbt-example-paradise/project/Build.scala -> /repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$6.class
+/repos/sbt-example-paradise/project/Build.scala -> /repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$7.class
+/repos/sbt-example-paradise/project/Build.scala -> /repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$.class
+/repos/sbt-example-paradise/project/Build.scala -> /repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/BuildSettings.class
+/repos/sbt-example-paradise/project/Build.scala -> /repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$core$1$$anonfun$apply$5.class
+/repos/sbt-example-paradise/project/Build.scala -> /repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$core$1$$anonfun$apply$6.class
+/repos/sbt-example-paradise/project/Build.scala -> /repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$core$1.class
+/repos/sbt-example-paradise/project/Build.scala -> /repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$core$2.class
+/repos/sbt-example-paradise/project/Build.scala -> /repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$core$3.class
+/repos/sbt-example-paradise/project/Build.scala -> /repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$core$4.class
+/repos/sbt-example-paradise/project/Build.scala -> /repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$core$5.class
+/repos/sbt-example-paradise/project/Build.scala -> /repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$macros$1$$anonfun$apply$2.class
+/repos/sbt-example-paradise/project/Build.scala -> /repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$macros$1$$anonfun$apply$3.class
+/repos/sbt-example-paradise/project/Build.scala -> /repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$macros$1$$anonfun$apply$4.class
+/repos/sbt-example-paradise/project/Build.scala -> /repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$macros$1.class
+/repos/sbt-example-paradise/project/Build.scala -> /repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$macros$2.class
+/repos/sbt-example-paradise/project/Build.scala -> /repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$macros$3.class
+/repos/sbt-example-paradise/project/Build.scala -> /repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$macros$4.class
+/repos/sbt-example-paradise/project/Build.scala -> /repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$root$1$$anonfun$apply$1.class
+/repos/sbt-example-paradise/project/Build.scala -> /repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$root$1.class
+/repos/sbt-example-paradise/project/Build.scala -> /repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$root$2.class
+/repos/sbt-example-paradise/project/Build.scala -> /repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$root$3.class
+/repos/sbt-example-paradise/project/Build.scala -> /repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$root$4.class
+/repos/sbt-example-paradise/project/Build.scala -> /repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild$.class
+/repos/sbt-example-paradise/project/Build.scala -> /repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild.class
+binary dependencies:
+9 items
+/repos/sbt-example-paradise/project/Build.scala -> /home/matan/.ivy2/cache/org.scala-sbt/apply-macro/jars/apply-macro-0.13.8-M3.jar
+/repos/sbt-example-paradise/project/Build.scala -> /home/matan/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.8-M3.jar
+/repos/sbt-example-paradise/project/Build.scala -> /home/matan/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.8-M3.jar
+/repos/sbt-example-paradise/project/Build.scala -> /home/matan/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.8-M3.jar
+/repos/sbt-example-paradise/project/Build.scala -> /home/matan/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.8-M3.jar
+/repos/sbt-example-paradise/project/Build.scala -> /home/matan/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.8-M3.jar
+/repos/sbt-example-paradise/project/Build.scala -> /home/matan/.ivy2/cache/org.scala-sbt/task-system/jars/task-system-0.13.8-M3.jar
+/repos/sbt-example-paradise/project/Build.scala -> /home/matan/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/repos/sbt-example-paradise/project/Build.scala -> /usr/lib/jvm/java-7-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+30 items
+/repos/sbt-example-paradise/project/Build.scala -> BuildSettings
+/repos/sbt-example-paradise/project/Build.scala -> BuildSettings$
+/repos/sbt-example-paradise/project/Build.scala -> BuildSettings$$anonfun$1
+/repos/sbt-example-paradise/project/Build.scala -> BuildSettings$$anonfun$2
+/repos/sbt-example-paradise/project/Build.scala -> BuildSettings$$anonfun$3
+/repos/sbt-example-paradise/project/Build.scala -> BuildSettings$$anonfun$4
+/repos/sbt-example-paradise/project/Build.scala -> BuildSettings$$anonfun$5
+/repos/sbt-example-paradise/project/Build.scala -> BuildSettings$$anonfun$6
+/repos/sbt-example-paradise/project/Build.scala -> BuildSettings$$anonfun$7
+/repos/sbt-example-paradise/project/Build.scala -> MyBuild
+/repos/sbt-example-paradise/project/Build.scala -> MyBuild$
+/repos/sbt-example-paradise/project/Build.scala -> MyBuild$$anonfun$core$1
+/repos/sbt-example-paradise/project/Build.scala -> MyBuild$$anonfun$core$1$$anonfun$apply$5
+/repos/sbt-example-paradise/project/Build.scala -> MyBuild$$anonfun$core$1$$anonfun$apply$6
+/repos/sbt-example-paradise/project/Build.scala -> MyBuild$$anonfun$core$2
+/repos/sbt-example-paradise/project/Build.scala -> MyBuild$$anonfun$core$3
+/repos/sbt-example-paradise/project/Build.scala -> MyBuild$$anonfun$core$4
+/repos/sbt-example-paradise/project/Build.scala -> MyBuild$$anonfun$core$5
+/repos/sbt-example-paradise/project/Build.scala -> MyBuild$$anonfun$macros$1
+/repos/sbt-example-paradise/project/Build.scala -> MyBuild$$anonfun$macros$1$$anonfun$apply$2
+/repos/sbt-example-paradise/project/Build.scala -> MyBuild$$anonfun$macros$1$$anonfun$apply$3
+/repos/sbt-example-paradise/project/Build.scala -> MyBuild$$anonfun$macros$1$$anonfun$apply$4
+/repos/sbt-example-paradise/project/Build.scala -> MyBuild$$anonfun$macros$2
+/repos/sbt-example-paradise/project/Build.scala -> MyBuild$$anonfun$macros$3
+/repos/sbt-example-paradise/project/Build.scala -> MyBuild$$anonfun$macros$4
+/repos/sbt-example-paradise/project/Build.scala -> MyBuild$$anonfun$root$1
+/repos/sbt-example-paradise/project/Build.scala -> MyBuild$$anonfun$root$1$$anonfun$apply$1
+/repos/sbt-example-paradise/project/Build.scala -> MyBuild$$anonfun$root$2
+/repos/sbt-example-paradise/project/Build.scala -> MyBuild$$anonfun$root$3
+/repos/sbt-example-paradise/project/Build.scala -> MyBuild$$anonfun$root$4
+used names:
+95 items
+/repos/sbt-example-paradise/project/Build.scala -> %
+/repos/sbt-example-paradise/project/Build.scala -> %%
+/repos/sbt-example-paradise/project/Build.scala -> ++
+/repos/sbt-example-paradise/project/Build.scala -> ++=
+/repos/sbt-example-paradise/project/Build.scala -> +=
+/repos/sbt-example-paradise/project/Build.scala -> :=
+/repos/sbt-example-paradise/project/Build.scala -> <+=
+/repos/sbt-example-paradise/project/Build.scala -> <<=
+/repos/sbt-example-paradise/project/Build.scala -> <init>
+/repos/sbt-example-paradise/project/Build.scala -> AnyRef
+/repos/sbt-example-paradise/project/Build.scala -> Append
+/repos/sbt-example-paradise/project/Build.scala -> Build
+/repos/sbt-example-paradise/project/Build.scala -> BuildSettings
+/repos/sbt-example-paradise/project/Build.scala -> Compile
+/repos/sbt-example-paradise/project/Build.scala -> ConfigKey
+/repos/sbt-example-paradise/project/Build.scala -> CrossVersion
+/repos/sbt-example-paradise/project/Build.scala -> Def
+/repos/sbt-example-paradise/project/Build.scala -> Defaults
+/repos/sbt-example-paradise/project/Build.scala -> FullInstance
+/repos/sbt-example-paradise/project/Build.scala -> InitializeInstance
+/repos/sbt-example-paradise/project/Build.scala -> InputWrapper
+/repos/sbt-example-paradise/project/Build.scala -> Keys
+/repos/sbt-example-paradise/project/Build.scala -> List
+/repos/sbt-example-paradise/project/Build.scala -> MyBuild
+/repos/sbt-example-paradise/project/Build.scala -> Nil
+/repos/sbt-example-paradise/project/Build.scala -> Project
+/repos/sbt-example-paradise/project/Build.scala -> Resolver
+/repos/sbt-example-paradise/project/Build.scala -> Seq
+/repos/sbt-example-paradise/project/Build.scala -> addCompilerPlugin
+/repos/sbt-example-paradise/project/Build.scala -> aggregate
+/repos/sbt-example-paradise/project/Build.scala -> append1
+/repos/sbt-example-paradise/project/Build.scala -> appendN
+/repos/sbt-example-paradise/project/Build.scala -> appendSeq
+/repos/sbt-example-paradise/project/Build.scala -> apply
+/repos/sbt-example-paradise/project/Build.scala -> buildSettings
+/repos/sbt-example-paradise/project/Build.scala -> canBuildFrom
+/repos/sbt-example-paradise/project/Build.scala -> classpathDependency
+/repos/sbt-example-paradise/project/Build.scala -> collection
+/repos/sbt-example-paradise/project/Build.scala -> configurationToKey
+/repos/sbt-example-paradise/project/Build.scala -> core
+/repos/sbt-example-paradise/project/Build.scala -> cross
+/repos/sbt-example-paradise/project/Build.scala -> crossScalaVersions
+/repos/sbt-example-paradise/project/Build.scala -> defaultSettings
+/repos/sbt-example-paradise/project/Build.scala -> dependsOn
+/repos/sbt-example-paradise/project/Build.scala -> file
+/repos/sbt-example-paradise/project/Build.scala -> full
+/repos/sbt-example-paradise/project/Build.scala -> immutable
+/repos/sbt-example-paradise/project/Build.scala -> in
+/repos/sbt-example-paradise/project/Build.scala -> libraryDependencies
+/repos/sbt-example-paradise/project/Build.scala -> macroValueI
+/repos/sbt-example-paradise/project/Build.scala -> macros
+/repos/sbt-example-paradise/project/Build.scala -> map
+/repos/sbt-example-paradise/project/Build.scala -> organization
+/repos/sbt-example-paradise/project/Build.scala -> package
+/repos/sbt-example-paradise/project/Build.scala -> paradiseVersion
+/repos/sbt-example-paradise/project/Build.scala -> projectToRef
+/repos/sbt-example-paradise/project/Build.scala -> pure
+/repos/sbt-example-paradise/project/Build.scala -> resolvers
+/repos/sbt-example-paradise/project/Build.scala -> root
+/repos/sbt-example-paradise/project/Build.scala -> run
+/repos/sbt-example-paradise/project/Build.scala -> sbt
+/repos/sbt-example-paradise/project/Build.scala -> scala
+/repos/sbt-example-paradise/project/Build.scala -> scalaVersion
+/repos/sbt-example-paradise/project/Build.scala -> scalacOptions
+/repos/sbt-example-paradise/project/Build.scala -> set
+/repos/sbt-example-paradise/project/Build.scala -> sonatypeRepo
+/repos/sbt-example-paradise/project/Build.scala -> startsWith
+/repos/sbt-example-paradise/project/Build.scala -> toGroupID
+/repos/sbt-example-paradise/project/Build.scala -> value
+/repos/sbt-example-paradise/project/Build.scala -> version
+/repos/sbt-example-paradise/project/Build.scala -> wrapInit_☃☃
+/repos/sbt-example-paradise/project/Build.scala -> x$10
+/repos/sbt-example-paradise/project/Build.scala -> x$11
+/repos/sbt-example-paradise/project/Build.scala -> x$12
+/repos/sbt-example-paradise/project/Build.scala -> x$13
+/repos/sbt-example-paradise/project/Build.scala -> x$14
+/repos/sbt-example-paradise/project/Build.scala -> x$15
+/repos/sbt-example-paradise/project/Build.scala -> x$16
+/repos/sbt-example-paradise/project/Build.scala -> x$17
+/repos/sbt-example-paradise/project/Build.scala -> x$18
+/repos/sbt-example-paradise/project/Build.scala -> x$19
+/repos/sbt-example-paradise/project/Build.scala -> x$2
+/repos/sbt-example-paradise/project/Build.scala -> x$20
+/repos/sbt-example-paradise/project/Build.scala -> x$21
+/repos/sbt-example-paradise/project/Build.scala -> x$22
+/repos/sbt-example-paradise/project/Build.scala -> x$23
+/repos/sbt-example-paradise/project/Build.scala -> x$24
+/repos/sbt-example-paradise/project/Build.scala -> x$25
+/repos/sbt-example-paradise/project/Build.scala -> x$3
+/repos/sbt-example-paradise/project/Build.scala -> x$4
+/repos/sbt-example-paradise/project/Build.scala -> x$5
+/repos/sbt-example-paradise/project/Build.scala -> x$6
+/repos/sbt-example-paradise/project/Build.scala -> x$7
+/repos/sbt-example-paradise/project/Build.scala -> x$8
+/repos/sbt-example-paradise/project/Build.scala -> x$9
+product stamps:
+30 items
+/repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$1.class -> lastModified(1430312592000)
+/repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$2.class -> lastModified(1430312592000)
+/repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$3.class -> lastModified(1430312592000)
+/repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$4.class -> lastModified(1430312592000)
+/repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$5.class -> lastModified(1430312592000)
+/repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$6.class -> lastModified(1430312592000)
+/repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$7.class -> lastModified(1430312592000)
+/repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$.class -> lastModified(1430312592000)
+/repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/BuildSettings.class -> lastModified(1430312592000)
+/repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$core$1$$anonfun$apply$5.class -> lastModified(1430312592000)
+/repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$core$1$$anonfun$apply$6.class -> lastModified(1430312592000)
+/repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$core$1.class -> lastModified(1430312592000)
+/repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$core$2.class -> lastModified(1430312592000)
+/repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$core$3.class -> lastModified(1430312592000)
+/repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$core$4.class -> lastModified(1430312592000)
+/repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$core$5.class -> lastModified(1430312592000)
+/repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$macros$1$$anonfun$apply$2.class -> lastModified(1430312592000)
+/repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$macros$1$$anonfun$apply$3.class -> lastModified(1430312592000)
+/repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$macros$1$$anonfun$apply$4.class -> lastModified(1430312592000)
+/repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$macros$1.class -> lastModified(1430312592000)
+/repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$macros$2.class -> lastModified(1430312592000)
+/repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$macros$3.class -> lastModified(1430312592000)
+/repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$macros$4.class -> lastModified(1430312592000)
+/repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$root$1$$anonfun$apply$1.class -> lastModified(1430312592000)
+/repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$root$1.class -> lastModified(1430312592000)
+/repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$root$2.class -> lastModified(1430312592000)
+/repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$root$3.class -> lastModified(1430312592000)
+/repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild$$anonfun$root$4.class -> lastModified(1430312592000)
+/repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild$.class -> lastModified(1430312592000)
+/repos/sbt-example-paradise/project/target/scala-2.10/sbt-0.13/classes/MyBuild.class -> lastModified(1430312592000)
+source stamps:
+1 items
+/repos/sbt-example-paradise/project/Build.scala -> hash(1c7a43309805c156fe2c058ce03234ccb5c8c4a1)
+binary stamps:
+9 items
+/home/matan/.ivy2/cache/org.scala-sbt/apply-macro/jars/apply-macro-0.13.8-M3.jar -> lastModified(1423246941000)
+/home/matan/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.8-M3.jar -> lastModified(1425056384000)
+/home/matan/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.8-M3.jar -> lastModified(1423246971000)
+/home/matan/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.8-M3.jar -> lastModified(1423246982000)
+/home/matan/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.8-M3.jar -> lastModified(1423246994000)
+/home/matan/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.8-M3.jar -> lastModified(1423246988000)
+/home/matan/.ivy2/cache/org.scala-sbt/task-system/jars/task-system-0.13.8-M3.jar -> lastModified(1423246968000)
+/home/matan/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> lastModified(1395179187000)
+/usr/lib/jvm/java-7-oracle/jre/lib/rt.jar -> lastModified(1429174119000)
+class names:
+9 items
+/home/matan/.ivy2/cache/org.scala-sbt/apply-macro/jars/apply-macro-0.13.8-M3.jar -> sbt.appmacro.Instance$
+/home/matan/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.8-M3.jar -> sbt.Init
+/home/matan/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.8-M3.jar -> sbt.impl.DependencyBuilders
+/home/matan/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.8-M3.jar -> sbt.ConfigKey$
+/home/matan/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.8-M3.jar -> sbt.Build
+/home/matan/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.8-M3.jar -> sbt.package$
+/home/matan/.ivy2/cache/org.scala-sbt/task-system/jars/task-system-0.13.8-M3.jar -> sbt.Task
+/home/matan/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> scala.collection.immutable.List
+/usr/lib/jvm/java-7-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/repos/sbt-example-paradise/project/Build.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBkktpxAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAH3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cE1ZYnp0AAZub3RpZnlzcQB+AAzcVnmOdAAEd2FpdHNxAH4ADKE+wH10AA0kYXNJbnN0YW5jZU9mc3EAfgAMPnzWEHQAD3BhcmFkaXNlVmVyc2lvbnNxAH4ADD3qJvR0AAxidWlsZExvYWRlcnNzcQB+AAxaedUFdAAEcm9vdHNxAH4ADMaMJ4l0AAZlcXVhbHNzcQB+AAyguI6jdAAMYXNJbnN0YW5jZU9mc3EAfgAMf9x6OXQAEnByb2plY3REZWZpbml0aW9uc3NxAH4ADHX48Nt0AAxzeW5jaHJvbml6ZWRzcQB+AAyORC+hdAANJGlzSW5zdGFuY2VPZnNxAH4ADElU85p0AAlub3RpZnlBbGxzcQB+AAygRBM2dAALcm9vdFByb2plY3RzcQB+AAzQOrZsdAAMaXNJbnN0YW5jZU9mc3EAfgAM496UInQAB015QnVpbGRzcQB+AAytvkOOdAAGbWFjcm9zc3EAfgAMeORHTHQAAj09c3EAfgAMfbo7EnQABWNsb25lc3EAfgAMVG2cLXQACHRvU3RyaW5nc3EAfgAMvE3qd3QAAiE9c3EAfgAMtS9uEnQACHByb2plY3Rzc3EAfgAMeezobnQACGdldENsYXNzc3EAfgAM+6dT6nQABGNvcmVzcQB+AAzLrci5dAANQnVpbGRTZXR0aW5nc3NxAH4ADEHA3VR0AAJuZXNxAH4ADBvZidV0AA1idWlsZFNldHRpbmdzc3EAfgAMLDJ6Q3QAAmVxc3EAfgAMvO9hhnQACHNldHRpbmdzc3EAfgAMFfYaT3QAAiMjc3EAfgAMJFEiX3QACGZpbmFsaXplc3EAfgAMwXQsJnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AVXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgA9dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBsAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBVTAAJaW5oZXJpdGVkcQB+AFVMAAdwYXJlbnRzcQB+AFV4cQB+AHNzcQB+AGwBdXEAfgBQAAAAAHBzcQB+AGwBdXEAfgBQAAAAAHBzcQB+AGwBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBydAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgByc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCLdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCMc3EAfgB/dAADQW55c3EAfgCDc3EAfgCGdXEAfgCJAAAAAnNxAH4Ai3QABXNjYWxhcQB+AJJwcHNxAH4AUnEAfgBfdXEAfgBgAAAAAHNxAH4AYgBxAH4AK3VxAH4AZAAAAABxAH4AaHVxAH4AagAAAABzcQB+AGwBcQB+AHRwc3EAfgBsAXNxAH4AdnNxAH4AbAF1cQB+AFAAAAAAcHNxAH4AbAF1cQB+AFAAAAAAcHNxAH4AbAF1cQB+AH0AAAADc3EAfgB/dAAFQnVpbGRzcQB+AINzcQB+AIZ1cQB+AIkAAAACc3EAfgCLdAADc2J0cQB+AJJzcQB+AH9xAH4AgnNxAH4Ag3NxAH4AhnVxAH4AiQAAAANzcQB+AItxAH4AjnNxAH4Ai3EAfgCQcQB+AJJzcQB+AH9xAH4AlHNxAH4Ag3NxAH4AhnVxAH4AiQAAAAJzcQB+AItxAH4AmXEAfgCScHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTQVGGTx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABGL3JlcG9zL3NidC1leGFtcGxlLXBhcmFkaXNlL3Byb2plY3QvdGFyZ2V0L3NjYWxhLTIuMTAvc2J0LTAuMTMvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFBx6QzCYBcFW/iwFjOAyNMy1yMSh
+external apis:
+0 items
+source infos:
+1 items
+/repos/sbt-example-paradise/project/Build.scala -> 
+AAAAAAAAAAEAAAEAAAAGADYgIHZhbCBidWlsZFNldHRpbmdzID0gRGVmYXVsdHMuZGVmYXVsdFNldHRpbmdzICsrIFNlcSgBAAAAdQEAAAAfAQAfICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAEALy9yZXBvcy9zYnQtZXhhbXBsZS1wYXJhZGlzZS9wcm9qZWN0L0J1aWxkLnNjYWxhAQAvL3JlcG9zL3NidC1leGFtcGxlLXBhcmFkaXNlL3Byb2plY3QvQnVpbGQuc2NhbGEAiHZhbHVlIGRlZmF1bHRTZXR0aW5ncyBpbiBvYmplY3QgRGVmYXVsdHMgaXMgZGVwcmVjYXRlZDogRGVmYXVsdCBzZXR0aW5ncyBzcGxpdCBpbnRvIGNvcmVEZWZhdWx0U2V0dGluZ3MgYW5kIEl2eU1vZHVsZS9Kdm1Nb2R1bGUgcGx1Z2lucy4B
+compilations:
+7 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTQS7rSx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9yZXBvcy9zYnQtZXhhbXBsZS1wYXJhZGlzZS9wcm9qZWN0L3RhcmdldC9zY2FsYS0yLjEwL3NidC0wLjEzL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTQTAnip1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9yZXBvcy9zYnQtZXhhbXBsZS1wYXJhZGlzZS9wcm9qZWN0L3RhcmdldC9zY2FsYS0yLjEwL3NidC0wLjEzL2NsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTQVCOcd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9yZXBvcy9zYnQtZXhhbXBsZS1wYXJhZGlzZS9wcm9qZWN0L3RhcmdldC9zY2FsYS0yLjEwL3NidC0wLjEzL2NsYXNzZXN0AAEv
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTQVCroh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9yZXBvcy9zYnQtZXhhbXBsZS1wYXJhZGlzZS9wcm9qZWN0L3RhcmdldC9zY2FsYS0yLjEwL3NidC0wLjEzL2NsYXNzZXN0AAEv
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTQVDPRF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9yZXBvcy9zYnQtZXhhbXBsZS1wYXJhZGlzZS9wcm9qZWN0L3RhcmdldC9zY2FsYS0yLjEwL3NidC0wLjEzL2NsYXNzZXN0AAEv
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTQVEvqd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9yZXBvcy9zYnQtZXhhbXBsZS1wYXJhZGlzZS9wcm9qZWN0L3RhcmdldC9zY2FsYS0yLjEwL3NidC0wLjEzL2NsYXNzZXN0AAEv
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTQVGGTx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9yZXBvcy9zYnQtZXhhbXBsZS1wYXJhZGlzZS9wcm9qZWN0L3RhcmdldC9zY2FsYS0yLjEwL3NidC0wLjEzL2NsYXNzZXN0AAEv
