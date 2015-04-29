@@ -42,7 +42,7 @@ object analyze {
       print(Console.RESET)
     }
     
-    val result = c.Expr[Any](Block(annottees.map(_.tree).toList, Literal(Constant(()))))
+    val returnIdentity = c.Expr[Any](Block(annottees.map(_.tree).toList, Literal(Constant(()))))
     
     def findMethods(typ: String, name: Any, body: List[c.Tree]) = {
       body map {
@@ -81,16 +81,16 @@ object analyze {
       case x@q"$mods class $name[..$tparams] $ctorMods(...$paramss) extends { ..$earlydefns } with ..$parents { $self => ..$body }" :: Nil => 
         println(s"found class $name")
         //findMethods("class", name, body)
-        result
+        returnIdentity
         
           
       case x@q"import $ref.{..$sels}" => 
         println(s"found import $ref $sels")
-        c.Expr[Any](Block(annottees.map(_.tree).toList, Literal(Constant(()))))
+        returnIdentity
         
       case x => 
         println(Console.YELLOW + "in unmatched AST part" + Console.RESET); q"..$x"
-        c.Expr[Any](Block(annottees.map(_.tree).toList, Literal(Constant(()))))
+        returnIdentity
     }
     
     //c.Expr[Any](Block(annottees.map(_.tree).toList, Literal(Constant(())))) // return expression that duplicates the original annottees (from https://github.com/scalamacros/paradise/blob/5e5f0c129dd1861f86250d7ce94635b89996938c/tests/src/main/scala/identity.scala#L8)
