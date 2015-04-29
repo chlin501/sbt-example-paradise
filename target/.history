@@ -198,3 +198,4 @@ exit
 last core/compile:compileIncremental
 ~ ;clean ;run
 exit
+~ ;clean ;run
